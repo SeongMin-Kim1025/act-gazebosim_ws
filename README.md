@@ -1,4 +1,4 @@
-# ign_moveit2_examples (Modified)
+# Gazebosim_ACT
 
 C++ 및 Python 예제를 활용하여 MoveIt 2 기반 로봇 모션을 Gazebosim에서 구현하여 데모 데이터를 저장하고
 이후 데모 데이터를 통해 학습된 best_policy를 이용하여 추론을 하는 프로젝트
